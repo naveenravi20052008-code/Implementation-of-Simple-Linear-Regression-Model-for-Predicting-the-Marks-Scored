@@ -8,10 +8,11 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. import the needed packages.
+2.Assigning hours to x and scores to y.
+3.Plot the scatter plot.
+4.Use mse,rmse,mae formula to find the values.
+ 
 
 ## Program:
 ```
@@ -82,7 +83,6 @@ print('Root Mean Squared Error (RMSE) =', rmse)
 <img width="787" height="649" alt="Screenshot 2026-02-02 114434" src="https://github.com/user-attachments/assets/abdc968b-843a-46bb-9820-099fd092e1cc" />
 
 <img width="1058" height="709" alt="Screenshot 2026-01-31 162155" src="https://github.com/user-attachments/assets/2c44a13d-1196-4b7d-944e-a97945822857" />
-
 
 
 ## Result:
